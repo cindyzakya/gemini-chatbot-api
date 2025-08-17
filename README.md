@@ -54,12 +54,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ---
 
-## Usage
+## 💬 Usage
 Once the server is running, open your web browser and navigate to:
 `http://localhost:3000`.
 You can now start chatting with the AI! Type a message in the input box and press "Send" or hit Enter.
 
-## API Endpoint
+## 📡 API Endpoint
 The backend exposes a single API endpoint for the chat functionality.
 #### `POST /api/chat`
 -   **Description:** Receives a conversation history and returns a response from the Gemini model.
